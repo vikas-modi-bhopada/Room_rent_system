@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098633070689",
+    "firebase_url": "https://roomi-96bbf.firebaseio.com",
+    "project_id": "roomi-96bbf",
+    "storage_bucket": "roomi-96bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098633070689:android:31980436722af340544220",
+        "android_client_info": {
+          "package_name": "com.example.Roomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098633070689-ke0cok9jriq69ngkgub2r4te64hjvc4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Roomi",
+            "certificate_hash": "6cf2250d2dfb86520c3335e0efd12e71881f8a97"
+          }
+        },
+        {
+          "client_id": "1098633070689-rs16d31s3h4qq12po529ct55ant637i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiq484pksGgr2I8P6AmdsFCaM2GTrAjTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098633070689-rs16d31s3h4qq12po529ct55ant637i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
